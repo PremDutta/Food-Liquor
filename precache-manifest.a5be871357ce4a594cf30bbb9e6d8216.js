@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e912f4601cfbfb8357010d059cae3dd4",
+    "revision": "6cb9dd2ab4b7943240da999d10e5bfd6",
     "url": "/FoodLiquor/index.html"
   },
   {
-    "revision": "7347f2fdaea87a872b3c",
+    "revision": "ed9ac8bffb25663542df",
     "url": "/FoodLiquor/static/css/2.6011fe8e.chunk.css"
   },
   {
-    "revision": "f86153926e672a4387d6",
+    "revision": "729fb8d58cdaa5d77862",
     "url": "/FoodLiquor/static/css/main.00770f9f.chunk.css"
   },
   {
-    "revision": "7347f2fdaea87a872b3c",
-    "url": "/FoodLiquor/static/js/2.e9681cee.chunk.js"
+    "revision": "ed9ac8bffb25663542df",
+    "url": "/FoodLiquor/static/js/2.46c38df8.chunk.js"
   },
   {
-    "revision": "43842755bb4daadbbdc664990671d25e",
-    "url": "/FoodLiquor/static/js/2.e9681cee.chunk.js.LICENSE.txt"
+    "revision": "83a948c3ac4f025c0114fa02416987e8",
+    "url": "/FoodLiquor/static/js/2.46c38df8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f86153926e672a4387d6",
-    "url": "/FoodLiquor/static/js/main.68682580.chunk.js"
+    "revision": "729fb8d58cdaa5d77862",
+    "url": "/FoodLiquor/static/js/main.86ec2fe0.chunk.js"
   },
   {
     "revision": "8ab459a4c7346a78545f",
@@ -58,10 +58,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d5a48afbe6bab4933939eff7653758fb",
     "url": "/FoodLiquor/static/media/LoginPage.d5a48afb.jpeg"
-  },
-  {
-    "revision": "198e3c8da19c8041db9b1702f4efba1f",
-    "url": "/FoodLiquor/static/media/MainLandingPageHero.198e3c8d.png"
   },
   {
     "revision": "f3822e94600621912441e404b6e9c98f",
@@ -198,10 +194,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "61eae8b2845b7d35c3d58786733ea3d2",
     "url": "/FoodLiquor/static/media/github-icon.61eae8b2.svg"
-  },
-  {
-    "revision": "20ccfb09e5a6a5360835f862fed25066",
-    "url": "/FoodLiquor/static/media/handle-icon.20ccfb09.svg"
   },
   {
     "revision": "1669eb96c162ff86e8318d02b7f89f24",

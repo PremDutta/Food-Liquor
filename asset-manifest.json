@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/FoodLiquor/static/css/main.00770f9f.chunk.css",
-    "main.js": "/FoodLiquor/static/js/main.68682580.chunk.js",
-    "main.js.map": "/FoodLiquor/static/js/main.68682580.chunk.js.map",
+    "main.js": "/FoodLiquor/static/js/main.86ec2fe0.chunk.js",
+    "main.js.map": "/FoodLiquor/static/js/main.86ec2fe0.chunk.js.map",
     "runtime-main.js": "/FoodLiquor/static/js/runtime-main.bb42a808.js",
     "runtime-main.js.map": "/FoodLiquor/static/js/runtime-main.bb42a808.js.map",
     "static/css/2.6011fe8e.chunk.css": "/FoodLiquor/static/css/2.6011fe8e.chunk.css",
-    "static/js/2.e9681cee.chunk.js": "/FoodLiquor/static/js/2.e9681cee.chunk.js",
-    "static/js/2.e9681cee.chunk.js.map": "/FoodLiquor/static/js/2.e9681cee.chunk.js.map",
+    "static/js/2.46c38df8.chunk.js": "/FoodLiquor/static/js/2.46c38df8.chunk.js",
+    "static/js/2.46c38df8.chunk.js.map": "/FoodLiquor/static/js/2.46c38df8.chunk.js.map",
     "index.html": "/FoodLiquor/index.html",
-    "precache-manifest.7cd713da018ca9af92f9e6c304c14bc4.js": "/FoodLiquor/precache-manifest.7cd713da018ca9af92f9e6c304c14bc4.js",
+    "precache-manifest.a5be871357ce4a594cf30bbb9e6d8216.js": "/FoodLiquor/precache-manifest.a5be871357ce4a594cf30bbb9e6d8216.js",
     "service-worker.js": "/FoodLiquor/service-worker.js",
     "static/css/2.6011fe8e.chunk.css.map": "/FoodLiquor/static/css/2.6011fe8e.chunk.css.map",
     "static/css/main.00770f9f.chunk.css.map": "/FoodLiquor/static/css/main.00770f9f.chunk.css.map",
-    "static/js/2.e9681cee.chunk.js.LICENSE.txt": "/FoodLiquor/static/js/2.e9681cee.chunk.js.LICENSE.txt",
+    "static/js/2.46c38df8.chunk.js.LICENSE.txt": "/FoodLiquor/static/js/2.46c38df8.chunk.js.LICENSE.txt",
     "static/media/AboutUsPage.jpeg": "/FoodLiquor/static/media/AboutUsPage.3722f7e7.jpeg",
     "static/media/AgencyLandingPage.jpeg": "/FoodLiquor/static/media/AgencyLandingPage.df4fcdeb.jpeg",
     "static/media/BlogIndexPage.jpeg": "/FoodLiquor/static/media/BlogIndexPage.7e8818a2.jpeg",
@@ -22,7 +22,6 @@
     "static/media/HostingCloudLandingPage.jpeg": "/FoodLiquor/static/media/HostingCloudLandingPage.29cc9383.jpeg",
     "static/media/HotelTravelLandingPage.jpeg": "/FoodLiquor/static/media/HotelTravelLandingPage.4fde2dfb.jpeg",
     "static/media/LoginPage.jpeg": "/FoodLiquor/static/media/LoginPage.d5a48afb.jpeg",
-    "static/media/MainLandingPageHero.png": "/FoodLiquor/static/media/MainLandingPageHero.198e3c8d.png",
     "static/media/PricingPage.jpeg": "/FoodLiquor/static/media/PricingPage.f3822e94.jpeg",
     "static/media/PrivacyPolicyPage.jpeg": "/FoodLiquor/static/media/PrivacyPolicyPage.60bc4cc1.jpeg",
     "static/media/RestaurantLandingPage.jpeg": "/FoodLiquor/static/media/RestaurantLandingPage.b747f875.jpeg",
@@ -57,7 +56,6 @@
     "static/media/facebook-icon.5e030c93.svg": "/FoodLiquor/static/media/facebook-icon.5e030c93.svg",
     "static/media/fast-icon.svg": "/FoodLiquor/static/media/fast-icon.6c9e80ee.svg",
     "static/media/github-icon.61eae8b2.svg": "/FoodLiquor/static/media/github-icon.61eae8b2.svg",
-    "static/media/handle-icon.20ccfb09.svg": "/FoodLiquor/static/media/handle-icon.20ccfb09.svg",
     "static/media/hero-screenshot-1.png": "/FoodLiquor/static/media/hero-screenshot-1.1669eb96.png",
     "static/media/hero-screenshot-2.png": "/FoodLiquor/static/media/hero-screenshot-2.31c082be.png",
     "static/media/linkedin-icon.fa5666fa.svg": "/FoodLiquor/static/media/linkedin-icon.fa5666fa.svg",
@@ -106,8 +104,8 @@
   "entrypoints": [
     "static/js/runtime-main.bb42a808.js",
     "static/css/2.6011fe8e.chunk.css",
-    "static/js/2.e9681cee.chunk.js",
+    "static/js/2.46c38df8.chunk.js",
     "static/css/main.00770f9f.chunk.css",
-    "static/js/main.68682580.chunk.js"
+    "static/js/main.86ec2fe0.chunk.js"
   ]
 }
