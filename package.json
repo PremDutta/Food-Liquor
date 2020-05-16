@@ -1,4 +1,5 @@
 {
+  "homepage": "http://PremDutta.io/FoodLiquor",
   "name": "treact",
   "version": "0.1.0",
   "private": true,
@@ -8,6 +9,7 @@
     "@testing-library/user-event": "^7.1.2",
     "feather-icons": "^4.26.0",
     "framer-motion": "^1.10.2",
+    "gh-pages": "^2.2.0",
     "react": "^16.13.1",
     "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-dom": "^16.13.1",
