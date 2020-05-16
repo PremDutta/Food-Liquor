@@ -105,7 +105,7 @@ export const components = {
     RestaurantLandingPage: {
       component: RestaurantLandingPage,
       imageSrc: RestaurantLandingPageImageSrc,
-      url: "/components/landingPages/RestaurantLandingPage",
+      url: "https://premdutta.github.io/components/landingPages/RestaurantLandingPage",
     },
     HotelTravelLandingPage: {
       component: HotelTravelLandingPage,
